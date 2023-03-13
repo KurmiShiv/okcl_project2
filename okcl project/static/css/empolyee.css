@@ -1,0 +1,38 @@
+/* Set default font size and color */
+body {
+    font-size: 16px;
+    color: #333;
+  }
+  
+  /* Style for the heading */
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  /* Style for the table */
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  /* Style for the table headers */
+  th {
+    background-color: #4CAF50;
+    color: #fff;
+    font-weight: normal;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  /* Style for the table data */
+  td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  /* Style for the radio buttons */
+  input[type="radio"] {
+    margin-right: 8px;
+  }
+  
